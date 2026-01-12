@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/expedition/modules/chatflow-edit/components/nodes/chatflow/context-changer-node/context-changer-node.component.scss"],
+  "sourcesContent": [".context-changer-content {\n  padding: 8px 12px;\n  font-size: 13px;\n  color: #333;\n  background-color: rgba(255, 152, 0, 0.08);\n  border-radius: 4px;\n  max-height: 100px;\n  overflow-y: auto;\n\n  &.empty {\n    color: #999;\n    font-style: italic;\n  }\n\n  .file-info {\n    display: flex;\n    align-items: center;\n    gap: 6px;\n    font-weight: 600;\n    color: #ff9800;\n    margin-bottom: 4px;\n\n    mat-icon {\n      font-size: 18px;\n      width: 18px;\n      height: 18px;\n    }\n  }\n\n  .path-info {\n    font-size: 11px;\n    color: #666;\n    padding-left: 24px;\n  }\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,WAAA,IAAA;AACA,aAAA;AACA,SAAA;AACA,oBAAA,KAAA,GAAA,EAAA,GAAA,EAAA,CAAA,EAAA;AACA,iBAAA;AACA,cAAA;AACA,cAAA;;AAEA,CATF,uBASE,CAAA;AACE,SAAA;AACA,cAAA;;AAGF,CAdF,wBAcE,CAAA;AACE,WAAA;AACA,eAAA;AACA,OAAA;AACA,eAAA;AACA,SAAA;AACA,iBAAA;;AAEA,CAtBJ,wBAsBI,CARF,UAQE;AACE,aAAA;AACA,SAAA;AACA,UAAA;;AAIJ,CA7BF,wBA6BE,CAAA;AACE,aAAA;AACA,SAAA;AACA,gBAAA;;",
+  "names": []
+}

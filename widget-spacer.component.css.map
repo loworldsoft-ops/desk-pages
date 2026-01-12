@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/wix/atoms/items/widget-spacer/widget-spacer.component.scss"],
+  "sourcesContent": [".widget-spacer {\n  width: 100%;\n  background-color: transparent;\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,SAAA;AACA,oBAAA;;",
+  "names": []
+}

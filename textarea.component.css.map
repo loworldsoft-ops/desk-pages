@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/form/components/forms/textarea/textarea.component.scss"],
+  "sourcesContent": ["// Theme variables are globally available via CSS custom properties\n\n// Textarea component styles\n.mat-mdc-form-field {\n  width: 100%;\n}\n"],
+  "mappings": ";AAGA,CAAA;AACE,SAAA;;",
+  "names": []
+}

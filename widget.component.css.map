@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/wix/atoms/widget/widget.component.scss"],
+  "sourcesContent": [".widget-container {\n  width: 100%;\n  position: relative;\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,SAAA;AACA,YAAA;;",
+  "names": []
+}

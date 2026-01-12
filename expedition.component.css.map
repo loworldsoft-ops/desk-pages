@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/expedition/pages/expedition/expedition.component.scss"],
+  "sourcesContent": [".expedition-container {\n  height: 100vh;\n  width: 100vw;\n  overflow: hidden;\n  padding: 0;\n  margin: 0;\n}\n\n// 헤더와 메인 스타일 제거됨 (헤더 삭제했으므로)\n\n\n@media (max-width: 768px) {\n  .expedition-header {\n    .header-content {\n      flex-direction: column;\n      gap: 20px;\n    }\n\n    .title-section {\n      text-align: center;\n\n      h1 {\n        font-size: 2rem;\n      }\n    }\n\n    .user-section {\n      flex-direction: column;\n      gap: 10px;\n    }\n  }\n\n  .expedition-main {\n    padding: 20px;\n  }\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,UAAA;AACA,SAAA;AACA,YAAA;AACA,WAAA;AACA,UAAA;;AAMF,OAAA,CAAA,SAAA,EAAA;AAEI,GAAA,kBAAA,CAAA;AACE,oBAAA;AACA,SAAA;;AAGF,GALA,kBAKA,CAAA;AACE,gBAAA;;AAEA,GARF,kBAQE,CAHF,cAGE;AACE,eAAA;;AAIJ,GAbA,kBAaA,CAAA;AACE,oBAAA;AACA,SAAA;;AAIJ,GAAA;AACE,aAAA;;;",
+  "names": []
+}

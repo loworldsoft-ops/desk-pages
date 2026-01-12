@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/education/components/widgets/widget-text/widget-text.component.scss"],
+  "sourcesContent": [".widget-text {\n  padding: 16px 0;\n  \n  p {\n    margin: 0;\n    white-space: pre-wrap;\n    word-break: break-word;\n    line-height: 1.6;\n  }\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,WAAA,KAAA;;AAEA,CAHF,YAGE;AACE,UAAA;AACA,eAAA;AACA,cAAA;AACA,eAAA;;",
+  "names": []
+}

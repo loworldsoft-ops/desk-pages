@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/wix/components/context-menu/context-menu.component.scss"],
+  "sourcesContent": [".context-menu-backdrop {\n  position: fixed;\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  z-index: 9998;\n}\n\n.context-menu {\n  position: fixed;\n  background: white;\n  border-radius: 8px;\n  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);\n  padding: 8px 0;\n  min-width: 180px;\n  z-index: 9999;\n\n  .menu-item {\n    display: flex;\n    align-items: center;\n    gap: 12px;\n    padding: 10px 16px;\n    cursor: pointer;\n    transition: background-color 0.2s;\n\n    &:hover:not(.disabled) {\n      background-color: #f5f5f5;\n    }\n\n    &.disabled {\n      opacity: 0.5;\n      cursor: not-allowed;\n    }\n\n    mat-icon {\n      font-size: 20px;\n      width: 20px;\n      height: 20px;\n    }\n\n    span {\n      font-size: 14px;\n    }\n  }\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,YAAA;AACA,OAAA;AACA,QAAA;AACA,SAAA;AACA,UAAA;AACA,WAAA;;AAGF,CAAA;AACE,YAAA;AACA,cAAA;AACA,iBAAA;AACA,cAAA,EAAA,IAAA,KAAA,KAAA,CAAA,EAAA,CAAA,EAAA,CAAA,EAAA;AACA,WAAA,IAAA;AACA,aAAA;AACA,WAAA;;AAEA,CATF,aASE,CAAA;AACE,WAAA;AACA,eAAA;AACA,OAAA;AACA,WAAA,KAAA;AACA,UAAA;AACA,cAAA,iBAAA;;AAEA,CAjBJ,aAiBI,CARF,SAQE,MAAA,KAAA,CAAA;AACE,oBAAA;;AAGF,CArBJ,aAqBI,CAZF,SAYE,CAJA;AAKE,WAAA;AACA,UAAA;;AAGF,CA1BJ,aA0BI,CAjBF,UAiBE;AACE,aAAA;AACA,SAAA;AACA,UAAA;;AAGF,CAhCJ,aAgCI,CAvBF,UAuBE;AACE,aAAA;;",
+  "names": []
+}

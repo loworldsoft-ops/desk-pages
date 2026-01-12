@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/expedition/modules/chatflow-edit/components/nodes/chatbot/listen-node/listen-node.component.scss"],
+  "sourcesContent": [".listen-content {\n  padding: 8px 12px;\n  font-size: 13px;\n  color: #333;\n  background-color: rgba(156, 39, 176, 0.05);\n  border-radius: 4px;\n  max-height: 80px;\n  overflow-y: auto;\n  white-space: pre-wrap;\n  word-break: break-word;\n\n  &.empty {\n    color: #999;\n    font-style: italic;\n  }\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,WAAA,IAAA;AACA,aAAA;AACA,SAAA;AACA,oBAAA,KAAA,GAAA,EAAA,EAAA,EAAA,GAAA,EAAA;AACA,iBAAA;AACA,cAAA;AACA,cAAA;AACA,eAAA;AACA,cAAA;;AAEA,CAXF,cAWE,CAAA;AACE,SAAA;AACA,cAAA;;",
+  "names": []
+}

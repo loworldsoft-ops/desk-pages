@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/note/mobile/components/sidebar-drawer/sidebar-drawer.component.ts"],
+  "sourcesContent": ["\n    @keyframes slideIn {\n      from { transform: translateX(-100%); }\n      to { transform: translateX(0); }\n    }\n    .animate-slide-in {\n      animation: slideIn 0.3s ease-out;\n    }\n  "],
+  "mappings": ";AACI,WAAA;AACE;AAAO,eAAA,WAAA;;AACP;AAAK,eAAA,WAAA;;;AAEP,CAAA;AACE,aAAA,QAAA,KAAA;;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/expedition/modules/chatflow-edit/components/nodes/chatbot/speak-node/speak-node.component.scss"],
+  "sourcesContent": [".speak-content {\n    padding: 8px 12px;\n    font-size: 13px;\n    line-height: 1.5;\n    color: #333;\n    white-space: pre-wrap;\n    word-break: break-word;\n    max-height: 150px;\n    overflow-y: auto;\n    \n    &.empty {\n        color: #999;\n        font-style: italic;\n    }\n}\n"],
+  "mappings": ";AAAA,CAAA;AACI,WAAA,IAAA;AACA,aAAA;AACA,eAAA;AACA,SAAA;AACA,eAAA;AACA,cAAA;AACA,cAAA;AACA,cAAA;;AAEA,CAVJ,aAUI,CAAA;AACI,SAAA;AACA,cAAA;;",
+  "names": []
+}

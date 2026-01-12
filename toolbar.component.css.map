@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/shared/syncbi-molcules/toolbar/toolbar.component.scss"],
+  "sourcesContent": [":host{\n  width: 100%;\n}\n\n.example-spacer {\n  flex: 1 1 auto;\n}\n.example-icon{\n  padding: auto;\n  border-radius: 5%;\n}\n.custom-toolbar{\n  // background-color: transparent !important;\n  // box-shadow: none!important;\n  // border: none!important;\n  display: flex;\n  font-size: medium;\n}\n"],
+  "mappings": ";AAAA;AACE,SAAA;;AAGF,CAAA;AACE,QAAA,EAAA,EAAA;;AAEF,CAAA;AACE,WAAA;AACA,iBAAA;;AAEF,CAAA;AAIE,WAAA;AACA,aAAA;;",
+  "names": []
+}

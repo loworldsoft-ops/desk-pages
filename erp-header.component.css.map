@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/erp/components/erp-header/erp-header.component.scss"],
+  "sourcesContent": [".erp-header {\n  display: flex;\n  flex-direction: column;\n  background: var(--bg-primary);\n  border-bottom: 1px solid var(--border-color);\n  position: sticky;\n  top: 0;\n  z-index: 1000;\n  box-shadow: 0 2px 4px var(--shadow);\n  width: 100%;\n  min-height: 48px;\n  transition: all 0.3s ease;\n}\n\n// 반응형 디자인\n@media (max-width: 992px) {\n  .erp-header {\n    position: sticky;\n    min-height: 48px;\n    box-shadow: 0 2px 8px var(--shadow);\n  }\n}\n\n@media (max-width: 768px) {\n  .erp-header {\n    position: sticky;\n    min-height: 48px;\n    \n    // Top menu가 반응형으로 작동하도록 보장\n    app-erp-top-menu {\n      width: 100%;\n      display: block;\n    }\n  }\n}\n\n@media (max-width: 480px) {\n  .erp-header {\n    min-height: 48px;\n    box-shadow: 0 1px 4px var(--shadow);\n  }\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,WAAA;AACA,kBAAA;AACA,cAAA,IAAA;AACA,iBAAA,IAAA,MAAA,IAAA;AACA,YAAA;AACA,OAAA;AACA,WAAA;AACA,cAAA,EAAA,IAAA,IAAA,IAAA;AACA,SAAA;AACA,cAAA;AACA,cAAA,IAAA,KAAA;;AAIF,OAAA,CAAA,SAAA,EAAA;AACE,GAhBF;AAiBI,cAAA;AACA,gBAAA;AACA,gBAAA,EAAA,IAAA,IAAA,IAAA;;;AAIJ,OAAA,CAAA,SAAA,EAAA;AACE,GAxBF;AAyBI,cAAA;AACA,gBAAA;;AAGA,GA7BJ,WA6BI;AACE,WAAA;AACA,aAAA;;;AAKN,OAAA,CAAA,SAAA,EAAA;AACE,GArCF;AAsCI,gBAAA;AACA,gBAAA,EAAA,IAAA,IAAA,IAAA;;;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/shared/components/confirmation-dialog/confirmation-dialog.component.scss"],
+  "sourcesContent": [".confirmation-dialog {\n  min-width: 300px;\n  max-width: 500px;\n\n  h2 {\n    margin: 0;\n    padding: 0;\n    font-size: 20px;\n    font-weight: 600;\n  }\n}\n\nmat-dialog-content {\n  padding: 16px 24px;\n\n  .confirmation-message {\n    margin: 0;\n    font-size: 14px;\n    line-height: 1.5;\n    color: var(--text-primary, #333);\n    white-space: pre-wrap;\n    word-break: break-word;\n  }\n}\n\nmat-dialog-actions {\n  padding: 8px 24px 16px;\n  gap: 8px;\n  \n  button {\n    min-width: 80px;\n  }\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,aAAA;AACA,aAAA;;AAEA,CAJF,oBAIE;AACE,UAAA;AACA,WAAA;AACA,aAAA;AACA,eAAA;;AAIJ;AACE,WAAA,KAAA;;AAEA,mBAAA,CAAA;AACE,UAAA;AACA,aAAA;AACA,eAAA;AACA,SAAA,IAAA,cAAA,EAAA;AACA,eAAA;AACA,cAAA;;AAIJ;AACE,WAAA,IAAA,KAAA;AACA,OAAA;;AAEA,mBAAA;AACE,aAAA;;",
+  "names": []
+}

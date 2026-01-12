@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/note/mobile/mobile.routes.ts"],
+  "sourcesContent": ["import { Routes } from '@angular/router';\n\nexport const mobileRoutes: Routes = [\n  {\n    path: '',\n    loadComponent: () => import('./pages/home/home.component').then(m => m.MobileHomeComponent)\n  },\n  {\n    path: 'edit/:id',\n    loadComponent: () => import('./pages/editor/editor.component').then(m => m.MobileEditorComponent)\n  },\n  {\n    path: 'settings',\n    loadComponent: () => import('./pages/settings/settings.component').then(m => m.MobileSettingsComponent)\n  }\n];\n"],
+  "mappings": ";;;AAEO,IAAM,eAAuB;EAClC;IACE,MAAM;IACN,eAAe,MAAM,OAAO,qBAA6B,EAAE,KAAK,OAAK,EAAE,mBAAmB;;EAE5F;IACE,MAAM;IACN,eAAe,MAAM,OAAO,qBAAiC,EAAE,KAAK,OAAK,EAAE,qBAAqB;;EAElG;IACE,MAAM;IACN,eAAe,MAAM,OAAO,qBAAqC,EAAE,KAAK,OAAK,EAAE,uBAAuB;;;",
+  "names": []
+}

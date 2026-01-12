@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/note/mobile/components/context-menu-overlay/context-menu-overlay.component.ts"],
+  "sourcesContent": ["\n    @keyframes fade-in {\n      from { opacity: 0; }\n      to { opacity: 1; }\n    }\n    .animate-fade-in {\n      animation: fade-in 0.2s ease-out;\n    }\n    @keyframes scale-up {\n      from { transform: scale(0.95); opacity: 0; }\n      to { transform: scale(1); opacity: 1; }\n    }\n    .animate-scale-up {\n      animation: scale-up 0.2s cubic-bezier(0.16, 1, 0.3, 1);\n    }\n  "],
+  "mappings": ";AACI,WAAA;AACE;AAAO,aAAA;;AACP;AAAK,aAAA;;;AAEP,CAAA;AACE,aAAA,QAAA,KAAA;;AAEF,WAAA;AACE;AAAO,eAAA,MAAA;AAAwB,aAAA;;AAC/B;AAAK,eAAA,MAAA;AAAqB,aAAA;;;AAE5B,CAAA;AACE,aAAA,SAAA,KAAA,aAAA,IAAA,EAAA,CAAA,EAAA,GAAA,EAAA;;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/modules/diary/components/diary-login/diary-login.component.scss"],
+  "sourcesContent": ["// 통합 로그인 컴포넌트가 전체 화면을 차지하므로 별도 스타일 불필요\n:host {\n  display: block;\n  width: 100%;\n  height: 100vh;\n}\n"],
+  "mappings": ";AACA;AACE,WAAA;AACA,SAAA;AACA,UAAA;;",
+  "names": []
+}
