@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/wix/layout/page/page.component.scss"],
-  "sourcesContent": [".page-container {\n  width: 100%;\n  max-width: 1200px;\n  margin: 0 auto;\n  background-color: #ffffff;\n  min-height: 100vh;\n}\n"],
-  "mappings": ";AAAA,CAAA;AACE,SAAA;AACA,aAAA;AACA,UAAA,EAAA;AACA,oBAAA;AACA,cAAA;;",
-  "names": []
-}

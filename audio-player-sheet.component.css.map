@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/note/mobile/components/audio-player-sheet/audio-player-sheet.component.ts"],
-  "sourcesContent": ["\n    @keyframes fade-in {\n      from { opacity: 0; }\n      to { opacity: 1; }\n    }\n    .animate-fade-in {\n      animation: fade-in 0.2s ease-out;\n    }\n    @keyframes slide-up {\n      from { transform: translateY(100%); }\n      to { transform: translateY(0); }\n    }\n    .animate-slide-up {\n      animation: slide-up 0.3s cubic-bezier(0.16, 1, 0.3, 1);\n    }\n    @keyframes wave {\n      0%, 100% { transform: scaleY(0.5); }\n      50% { transform: scaleY(1); }\n    }\n    .animate-wave {\n      animation-name: wave;\n      animation-iteration-count: infinite;\n      animation-timing-function: ease-in-out;\n    }\n  "],
-  "mappings": ";AACI,WAAA;AACE;AAAO,aAAA;;AACP;AAAK,aAAA;;;AAEP,CAAA;AACE,aAAA,QAAA,KAAA;;AAEF,WAAA;AACE;AAAO,eAAA,WAAA;;AACP;AAAK,eAAA,WAAA;;;AAEP,CAAA;AACE,aAAA,SAAA,KAAA,aAAA,IAAA,EAAA,CAAA,EAAA,GAAA,EAAA;;AAEF,WAAA;AACE;AAAW,eAAA,OAAA;;AACX;AAAM,eAAA,OAAA;;;AAER,CAAA;AACE,kBAAA;AACA,6BAAA;AACA,6BAAA;;",
-  "names": []
-}

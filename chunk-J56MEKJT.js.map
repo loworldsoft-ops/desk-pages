@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/store/config/environment.ts"],
-  "sourcesContent": ["export const environment = {\n  production: false,\n  apiUrl: 'https://api.loworldsoft.com',\n  baseSyncUrl: 'https://api.loworldsoft.com',\n  baseUrl: 'https://api.loworldsoft.com',\n  frontUrl: 'https://api.loworldsoft.com',\n  socket_url: 'wss://api.loworldsoft.com',\n  // 스토어 플랫폼 전체 채팅 상담용 organizationId\n  chatOrganizationId: 'store-platform'\n};"],
-  "mappings": ";AAAO,IAAM,cAAc;EACzB,YAAY;EACZ,QAAQ;EACR,aAAa;EACb,SAAS;EACT,UAAU;EACV,YAAY;;EAEZ,oBAAoB;;",
-  "names": []
-}

@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/form/components/forms/radio-button/radio-button.component.scss"],
-  "sourcesContent": ["// Theme variables are globally available via CSS custom properties\n\n// RadioButton component styles\n.radio-group-container {\n  display: flex;\n  flex-direction: column;\n  gap: 10px;\n  \n  label {\n    font-weight: 500;\n    color: var(--form-text-primary);\n    margin-bottom: 10px;\n  }\n  \n  .mat-mdc-radio-group {\n    display: flex;\n    flex-direction: column;\n    gap: 8px;\n  }\n  \n  .mat-mdc-radio-button {\n    margin-bottom: 5px;\n  }\n}\n"],
-  "mappings": ";AAGA,CAAA;AACE,WAAA;AACA,kBAAA;AACA,OAAA;;AAEA,CALF,sBAKE;AACE,eAAA;AACA,SAAA,IAAA;AACA,iBAAA;;AAGF,CAXF,sBAWE,CAAA;AACE,WAAA;AACA,kBAAA;AACA,OAAA;;AAGF,CAjBF,sBAiBE,CAAA;AACE,iBAAA;;",
-  "names": []
-}

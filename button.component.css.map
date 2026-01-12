@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/expedition/components/chatbot/button/button.component.ts"],
-  "sourcesContent": ["\n    .chat-button {\n      padding: 10px 20px;\n      background: #667eea;\n      color: white;\n      border: none;\n      border-radius: 20px;\n      cursor: pointer;\n      margin: 5px;\n    }\n  "],
-  "mappings": ";AACI,CAAA;AACE,WAAA,KAAA;AACA,cAAA;AACA,SAAA;AACA,UAAA;AACA,iBAAA;AACA,UAAA;AACA,UAAA;;",
-  "names": []
-}

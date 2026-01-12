@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/expedition/components/chatbot/card-button/card-button.component.ts"],
-  "sourcesContent": ["\n    .card-button {\n      padding: 15px;\n      background: white;\n      border: 2px solid #667eea;\n      border-radius: 12px;\n      margin: 10px;\n      cursor: pointer;\n    }\n  "],
-  "mappings": ";AACI,CAAA;AACE,WAAA;AACA,cAAA;AACA,UAAA,IAAA,MAAA;AACA,iBAAA;AACA,UAAA;AACA,UAAA;;",
-  "names": []
-}

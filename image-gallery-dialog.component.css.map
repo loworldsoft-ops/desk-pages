@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/wix/dialogs/image-gallery-dialog/image-gallery-dialog.component.scss"],
-  "sourcesContent": [".container{\n  width: 100%;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n}\n\n.conatiner-header{\n  flex: 0 0 auto;\n  position: sticky;\n  top: 0;\n  left: 0;\n  width: 100%;\n  padding: 10px 0;\n}\n\n.container-body{\n  flex: 1 1 auto;\n  display: flex;\n  flex-direction: column;\n  overflow: hidden;\n}\n\n.tab-box{\n  flex: 0 0 auto;\n}\n\n.image-container{\n  flex: 1 1 auto;\n  display: flex;\n  flex-wrap: wrap;\n  gap: 10px;\n  overflow-y: auto;\n}\n\n.image-box{\n  flex: 0 0 calc((100% - 20px) / 3);\n  aspect-ratio: 4 / 3;\n  overflow: hidden;\n  box-sizing: border-box;\n\n  img{\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n    display: block;\n  }\n}\n\n"],
-  "mappings": ";AAAA,CAAA;AACE,SAAA;AACA,UAAA;AACA,WAAA;AACA,kBAAA;;AAGF,CAAA;AACE,QAAA,EAAA,EAAA;AACA,YAAA;AACA,OAAA;AACA,QAAA;AACA,SAAA;AACA,WAAA,KAAA;;AAGF,CAAA;AACE,QAAA,EAAA,EAAA;AACA,WAAA;AACA,kBAAA;AACA,YAAA;;AAGF,CAAA;AACE,QAAA,EAAA,EAAA;;AAGF,CAAA;AACE,QAAA,EAAA,EAAA;AACA,WAAA;AACA,aAAA;AACA,OAAA;AACA,cAAA;;AAGF,CAAA;AACE,QAAA,EAAA,EAAA,KAAA,CAAA,KAAA,EAAA,MAAA,EAAA;AACA,gBAAA,CAAA,CAAA;AACA,YAAA;AACA,cAAA;;AAEA,CANF,UAME;AACE,SAAA;AACA,UAAA;AACA,cAAA;AACA,WAAA;;",
-  "names": []
-}

@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/note/pc/components/audio-modal/audio-modal.component.ts"],
-  "sourcesContent": ["\n    @keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }\n    .animate-fade-in { animation: fade-in 0.2s ease-out; }\n    @keyframes scale-up { from { transform: scale(0.95); opacity: 0; } to { transform: scale(1); opacity: 1; } }\n    .animate-scale-up { animation: scale-up 0.2s cubic-bezier(0.16, 1, 0.3, 1); }\n    @keyframes wave { 0%, 100% { transform: scaleY(0.5); } 50% { transform: scaleY(1); } }\n    .animate-wave { animation-name: wave; animation-iteration-count: infinite; animation-timing-function: ease-in-out; }\n  "],
-  "mappings": ";AACI,WAAA;AAAqB;AAAO,aAAA;;AAAc;AAAK,aAAA;;;AAC/C,CAAA;AAAmB,aAAA,QAAA,KAAA;;AACnB,WAAA;AAAsB;AAAO,eAAA,MAAA;AAAwB,aAAA;;AAAc;AAAK,eAAA,MAAA;AAAqB,aAAA;;;AAC7F,CAAA;AAAoB,aAAA,SAAA,KAAA,aAAA,IAAA,EAAA,CAAA,EAAA,GAAA,EAAA;;AACpB,WAAA;AAAkB;AAAW,eAAA,OAAA;;AAA0B;AAAM,eAAA,OAAA;;;AAC7D,CAAA;AAAgB,kBAAA;AAAsB,6BAAA;AAAqC,6BAAA;;",
-  "names": []
-}

@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/store/store.component.scss"],
-  "sourcesContent": ["// Store Theme Wrapper - 스토어 모듈 전체에 테마 적용\n.store-theme-wrapper {\n  // 스토어 모듈의 accent 색상을 오렌지 계열로 오버라이드\n  --accent-primary: #ff6b35;\n  --accent-secondary: #e55a2b;\n  --accent-color: #ff6b35;\n  --primary-color: #ff6b35;\n  --primary-hover-color: #e55a2b;\n  \n  // 다크 테마일 때\n  &.dark-theme {\n    --accent-primary: #00d4aa;\n    --accent-secondary: #00b894;\n    --accent-color: #00d4aa;\n    --primary-color: #00d4aa;\n    --primary-hover-color: #00b894;\n  }\n}\n\n.store-container {\n  position: fixed;\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  width: 100%;\n  height: 100%;\n  overflow-y: auto;\n  overflow-x: hidden;\n  background-color: #f5f5f5;\n  \n  // iOS에서 스크롤 바운스 효과 제거\n  overscroll-behavior-y: contain;\n  -webkit-overflow-scrolling: touch;\n  \n  // iOS Safari에서 100vh 문제 해결\n  @supports (-webkit-touch-callout: none) {\n    height: -webkit-fill-available;\n  }\n}\n\n.store-content {\n  min-height: 100%;\n  background-color: white;\n  position: relative;\n  \n  // iOS에서 스크롤 영역 명확히 설정\n  touch-action: pan-y;\n}"],
-  "mappings": ";AACA,CAAA;AAEE,oBAAA;AACA,sBAAA;AACA,kBAAA;AACA,mBAAA;AACA,yBAAA;;AAGA,CATF,mBASE,CAAA;AACE,oBAAA;AACA,sBAAA;AACA,kBAAA;AACA,mBAAA;AACA,yBAAA;;AAIJ,CAAA;AACE,YAAA;AACA,OAAA;AACA,QAAA;AACA,SAAA;AACA,UAAA;AACA,SAAA;AACA,UAAA;AACA,cAAA;AACA,cAAA;AACA,oBAAA;AAGA,yBAAA;AACA,8BAAA;;AAGA,UAAA,CAAA,qBAAA,EAAA;AAjBF,GAAA;AAkBI,YAAA;;;AAIJ,CAAA;AACE,cAAA;AACA,oBAAA;AACA,YAAA;AAGA,gBAAA;;",
-  "names": []
-}

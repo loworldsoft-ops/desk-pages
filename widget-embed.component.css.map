@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/store/components/widgets/widget-embed/widget-embed.component.scss"],
-  "sourcesContent": [".widget-embed {\n  display: block;\n  width: 100%;\n\n  &__placeholder {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    min-height: 200px;\n    background-color: #f5f5f5;\n    border: 2px dashed #ddd;\n    border-radius: 8px;\n\n    span {\n      font-size: 16px;\n      color: #999;\n    }\n  }\n\n  &__iframe {\n    display: block;\n    width: 100%;\n    min-height: 400px;\n    border: none;\n\n    @media (max-width: 768px) {\n      min-height: 300px;\n    }\n  }\n}\n"],
-  "mappings": ";AAAA,CAAA;AACE,WAAA;AACA,SAAA;;AAEA,CAAA;AACE,WAAA;AACA,eAAA;AACA,mBAAA;AACA,cAAA;AACA,oBAAA;AACA,UAAA,IAAA,OAAA;AACA,iBAAA;;AAEA,CATF,0BASE;AACE,aAAA;AACA,SAAA;;AAIJ,CAAA;AACE,WAAA;AACA,SAAA;AACA,cAAA;AACA,UAAA;;AAEA,OAAA,CAAA,SAAA,EAAA;AANF,GAAA;AAOI,gBAAA;;;",
-  "names": []
-}

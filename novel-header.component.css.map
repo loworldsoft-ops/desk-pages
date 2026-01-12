@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/novel/components/novel-header/novel-header.component.scss"],
-  "sourcesContent": ["// ERP 스타일 헤더 - 단순화된 구조 (Docs와 동일)\n.novel-header {\n  display: flex;\n  flex-direction: column;\n  background: var(--bg-primary);\n  border-bottom: 1px solid var(--border-color);\n  position: sticky;\n  top: 0;\n  z-index: 1000; // ERP와 동일한 z-index\n  box-shadow: 0 2px 4px var(--shadow);\n  width: 100%;\n  min-height: 48px;\n  transition: all 0.3s ease;\n}\n\n// 반응형 디자인\n@media (max-width: 992px) {\n  .novel-header {\n    position: sticky;\n    min-height: 48px;\n    box-shadow: 0 2px 8px var(--shadow);\n  }\n}\n\n@media (max-width: 768px) {\n  .novel-header {\n    position: sticky;\n    min-height: 48px;\n    \n    // Top menu가 반응형으로 작동하도록 보장\n    app-novel-top-menu {\n      width: 100%;\n      display: block;\n    }\n  }\n}\n\n@media (max-width: 480px) {\n  .novel-header {\n    min-height: 48px;\n    box-shadow: 0 1px 4px var(--shadow);\n  }\n}"],
-  "mappings": ";AACA,CAAA;AACE,WAAA;AACA,kBAAA;AACA,cAAA,IAAA;AACA,iBAAA,IAAA,MAAA,IAAA;AACA,YAAA;AACA,OAAA;AACA,WAAA;AACA,cAAA,EAAA,IAAA,IAAA,IAAA;AACA,SAAA;AACA,cAAA;AACA,cAAA,IAAA,KAAA;;AAIF,OAAA,CAAA,SAAA,EAAA;AACE,GAhBF;AAiBI,cAAA;AACA,gBAAA;AACA,gBAAA,EAAA,IAAA,IAAA,IAAA;;;AAIJ,OAAA,CAAA,SAAA,EAAA;AACE,GAxBF;AAyBI,cAAA;AACA,gBAAA;;AAGA,GA7BJ,aA6BI;AACE,WAAA;AACA,aAAA;;;AAKN,OAAA,CAAA,SAAA,EAAA;AACE,GArCF;AAsCI,gBAAA;AACA,gBAAA,EAAA,IAAA,IAAA,IAAA;;;",
-  "names": []
-}

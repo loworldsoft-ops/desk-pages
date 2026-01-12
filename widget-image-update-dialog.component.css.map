@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/wix/dialogs/widget-update-dialogs/widget-image-update-dialog/widget-image-update-dialog.component.scss"],
-  "sourcesContent": [".image-update-dialog {\n  padding: 20px;\n  min-width: 400px;\n\n  h2 {\n    margin-top: 0;\n  }\n\n  .form-field {\n    margin-bottom: 20px;\n\n    label {\n      display: block;\n      margin-bottom: 8px;\n      font-weight: 500;\n    }\n\n    input {\n      width: 100%;\n      padding: 8px 12px;\n      border: 1px solid #ddd;\n      border-radius: 4px;\n      font-size: 14px;\n    }\n  }\n\n  .actions {\n    display: flex;\n    justify-content: flex-end;\n    gap: 10px;\n    margin-top: 20px;\n  }\n}\n"],
-  "mappings": ";AAAA,CAAA;AACE,WAAA;AACA,aAAA;;AAEA,CAJF,oBAIE;AACE,cAAA;;AAGF,CARF,oBAQE,CAAA;AACE,iBAAA;;AAEA,CAXJ,oBAWI,CAHF,WAGE;AACE,WAAA;AACA,iBAAA;AACA,eAAA;;AAGF,CAjBJ,oBAiBI,CATF,WASE;AACE,SAAA;AACA,WAAA,IAAA;AACA,UAAA,IAAA,MAAA;AACA,iBAAA;AACA,aAAA;;AAIJ,CA1BF,oBA0BE,CAAA;AACE,WAAA;AACA,mBAAA;AACA,OAAA;AACA,cAAA;;",
-  "names": []
-}

@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/wix/atoms/items/widget-video/widget-video.component.scss"],
-  "sourcesContent": [".widget-video {\n  width: 100%;\n  padding: 8px;\n}\n"],
-  "mappings": ";AAAA,CAAA;AACE,SAAA;AACA,WAAA;;",
-  "names": []
-}

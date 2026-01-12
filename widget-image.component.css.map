@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/education/components/widgets/widget-image/widget-image.component.scss"],
-  "sourcesContent": [".widget-image {\n  display: block;\n  width: 100%;\n\n  &__img {\n    display: block;\n    width: 100%;\n    height: auto;\n    object-fit: contain;\n  }\n\n  &__description {\n    margin-top: 8px;\n    font-size: 14px;\n    color: #666;\n    text-align: center;\n  }\n}\n"],
-  "mappings": ";AAAA,CAAA;AACE,WAAA;AACA,SAAA;;AAEA,CAAA;AACE,WAAA;AACA,SAAA;AACA,UAAA;AACA,cAAA;;AAGF,CAAA;AACE,cAAA;AACA,aAAA;AACA,SAAA;AACA,cAAA;;",
-  "names": []
-}

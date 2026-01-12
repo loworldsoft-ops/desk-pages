@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/wix/molcules/row/row.component.scss"],
-  "sourcesContent": [".row-container {\n  display: flex;\n  gap: 10px;\n  width: 100%;\n}\n"],
-  "mappings": ";AAAA,CAAA;AACE,WAAA;AACA,OAAA;AACA,SAAA;;",
-  "names": []
-}

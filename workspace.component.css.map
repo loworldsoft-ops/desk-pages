@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/calendar/pc/pages/workspace/workspace.component.ts"],
-  "sourcesContent": ["\n    .custom-scrollbar::-webkit-scrollbar { width: 4px; }\n    .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }\n    .custom-scrollbar::-webkit-scrollbar-thumb { background-color: #cbd5e1; border-radius: 10px; }\n  "],
-  "mappings": ";AACI,CAAA,gBAAA;AAAuC,SAAA;;AACvC,CADA,gBACA;AAA6C,cAAA;;AAC7C,CAFA,gBAEA;AAA6C,oBAAA;AAA2B,iBAAA;;",
-  "names": []
-}

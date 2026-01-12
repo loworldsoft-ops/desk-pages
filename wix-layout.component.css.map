@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/modules/wix/layout/wix-layout/wix-layout.component.scss"],
-  "sourcesContent": [".wix-container {\n  width: 100%;\n  height: 100vh;\n  display: flex;\n  flex-direction: column;\n  background-color: #f5f5f5;\n}\n\n.wix-header {\n  padding: 20px;\n  background-color: #ffffff;\n  border-bottom: 1px solid #e0e0e0;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 20px;\n  \n  h2 {\n    margin: 0;\n    color: #333;\n  }\n}\n\n.wix-body {\n  flex: 1;\n  overflow-y: auto;\n  padding: 20px;\n}\n"],
-  "mappings": ";AAAA,CAAA;AACE,SAAA;AACA,UAAA;AACA,WAAA;AACA,kBAAA;AACA,oBAAA;;AAGF,CAAA;AACE,WAAA;AACA,oBAAA;AACA,iBAAA,IAAA,MAAA;AACA,WAAA;AACA,eAAA;AACA,mBAAA;AACA,OAAA;;AAEA,CATF,WASE;AACE,UAAA;AACA,SAAA;;AAIJ,CAAA;AACE,QAAA;AACA,cAAA;AACA,WAAA;;",
-  "names": []
-}
