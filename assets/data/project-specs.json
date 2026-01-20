@@ -208,12 +208,15 @@
       ]
     },
     "ia": {
+      "projectModule": "calendar",
+      "projectType": "calendar",
       "pages": [
         {
           "id": "EZCAL-IA-1",
           "name": "로그인/가입",
           "description": "사용자 인증 및 계정 관리",
           "category": "인증",
+          "projectModule": "calendar",
           "components": ["로그인 폼", "회원가입 폼", "비밀번호 재설정"]
         },
         {
@@ -221,6 +224,7 @@
           "name": "대시보드",
           "description": "캘린더 메인 화면",
           "category": "메인",
+          "projectModule": "calendar",
           "components": ["캘린더 뷰 선택", "이벤트 목록", "검색 바", "필터"]
         },
         {
@@ -228,6 +232,7 @@
           "name": "캘린더 뷰",
           "description": "월간/주간/일간 캘린더 표시",
           "category": "캘린더",
+          "projectModule": "calendar",
           "components": ["달력 그리드", "이벤트 셀", "이벤트 상세 팝업", "드래그 앤 드롭"]
         },
         {
@@ -235,6 +240,7 @@
           "name": "이벤트 상세",
           "description": "이벤트 생성/편집/삭제",
           "category": "캘린더",
+          "projectModule": "calendar",
           "components": ["이벤트 폼", "반복 설정", "알림 설정", "참석자 초대"]
         },
         {
@@ -242,6 +248,7 @@
           "name": "공유 및 협업",
           "description": "캘린더 공유 관리",
           "category": "협업",
+          "projectModule": "calendar",
           "components": ["공유 사용자 목록", "권한 설정", "공유 링크"]
         },
         {
@@ -249,6 +256,7 @@
           "name": "설정",
           "description": "사용자 설정 및 환경설정",
           "category": "설정",
+          "projectModule": "calendar",
           "components": ["프로필 설정", "알림 설정", "언어/테마 설정"]
         }
       ],
@@ -555,12 +563,15 @@
       ]
     },
     "ia": {
+      "projectModule": "note",
+      "projectType": "note",
       "pages": [
         {
           "id": "EZNOTE-IA-1",
           "name": "로그인/가입",
           "description": "사용자 인증 및 계정 관리",
           "category": "인증",
+          "projectModule": "note",
           "components": ["로그인 폼", "회원가입 폼", "소셜 로그인", "2FA 설정"]
         },
         {
@@ -568,6 +579,7 @@
           "name": "메인 대시보드",
           "description": "노트 목록 및 통계",
           "category": "메인",
+          "projectModule": "note",
           "components": ["최근 노트", "통계 위젯", "빠른 생성 버튼", "검색"]
         },
         {
@@ -575,6 +587,7 @@
           "name": "노트 에디터",
           "description": "노트 작성 및 편집",
           "category": "에디터",
+          "projectModule": "note",
           "components": ["리치 텍스트 에디터", "태그 입력", "미디어 업로드", "AI 요약", "자동 저장 표시"]
         },
         {
@@ -582,6 +595,7 @@
           "name": "폴더/라이브러리",
           "description": "노트 구성 및 분류",
           "category": "폴더",
+          "projectModule": "note",
           "components": ["폴더 트리", "노트 목록", "필터", "정렬 옵션"]
         },
         {
@@ -589,6 +603,7 @@
           "name": "검색",
           "description": "전문 검색 및 고급 필터",
           "category": "검색",
+          "projectModule": "note",
           "components": ["검색 바", "필터 패널", "검색 결과", "저장된 검색"]
         },
         {
@@ -596,6 +611,7 @@
           "name": "공유 및 협업",
           "description": "노트 공유 및 협업 관리",
           "category": "협업",
+          "projectModule": "note",
           "components": ["공유 대상 목록", "권한 설정", "댓글", "활동 로그"]
         },
         {
@@ -603,6 +619,7 @@
           "name": "AI 분석",
           "description": "AI 기반 분석 및 제안",
           "category": "AI",
+          "projectModule": "note",
           "components": ["요약 패널", "키워드 추출", "추천 태그", "분석 결과"]
         },
         {
@@ -610,6 +627,7 @@
           "name": "설정",
           "description": "사용자 설정 및 환경설정",
           "category": "설정",
+          "projectModule": "note",
           "components": ["프로필 설정", "에디터 설정", "알림 설정", "스토리지 관리"]
         }
       ],
