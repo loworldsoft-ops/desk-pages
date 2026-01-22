@@ -62,11 +62,11 @@
       }
     ],
     "systemArchitecture": {
-      "frontend": "Angular 18+, TypeScript, SCSS, Angular CDK",
-      "backend": "Node.js/Express 또는 필요에 따라 선택",
-      "database": "MongoDB 또는 PostgreSQL",
-      "deployment": "Docker, Kubernetes",
-      "apis": "REST API / GraphQL"
+      "frontend": "Angular (AOT, IVY, Signal, TypeScript)",
+      "backend": "없음 (Native Bridge 연동)",
+      "database": "네이티브 스토리지",
+      "deployment": "WPF(C#), IOS(Swift), AOS(Kotlin)",
+      "apis": "postMessage Interface"
     },
     "requirements": [
       {
@@ -373,12 +373,12 @@
       }
     ],
     "systemArchitecture": {
-      "frontend": "Angular 18+, TypeScript, SCSS, Angular CDK",
-      "backend": "Node.js/Express + Python (AI 모듈)",
-      "aiEngine": "OpenAI API 또는 자체 NLP 모델",
-      "database": "MongoDB (노트), Redis (캐시)",
-      "fileStorage": "AWS S3 또는 Google Cloud Storage",
-      "deployment": "Docker, Kubernetes"
+      "frontend": "Angular (AOT, IVY, Signal, TypeScript)",
+      "backend": "없음 (Native Bridge 연동)",
+      "aiEngine": "WebView postMessage Interface",
+      "database": "네이티브 스토리지",
+      "fileStorage": "네이티브 파일 시스템",
+      "deployment": "WPF(C#), IOS(Swift), AOS(Kotlin)"
     },
     "requirements": [
       {
