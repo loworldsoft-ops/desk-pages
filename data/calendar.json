@@ -660,7 +660,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-06",
       "endDate": "2026-01-10",
       "progress": 0
@@ -675,7 +675,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-08",
       "endDate": "2026-01-12",
       "progress": 0
@@ -690,7 +690,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "inProgress",
+      "status": "open",
       "startDate": "2026-01-27",
       "endDate": "2026-02-05",
       "progress": 0
@@ -720,7 +720,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-13",
       "endDate": "2026-01-17",
       "progress": 0
@@ -735,7 +735,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-10",
       "endDate": "2026-01-14",
       "progress": 0
@@ -750,7 +750,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-14",
       "endDate": "2026-01-18",
       "progress": 0
@@ -765,7 +765,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-15",
       "endDate": "2026-01-19",
       "progress": 0
@@ -780,7 +780,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-06",
       "endDate": "2026-01-08",
       "progress": 0
@@ -795,7 +795,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-08",
       "endDate": "2026-01-12",
       "progress": 0
@@ -810,7 +810,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-13",
       "endDate": "2026-01-17",
       "progress": 0
@@ -825,7 +825,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-15",
       "endDate": "2026-01-19",
       "progress": 0
@@ -840,7 +840,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-17",
       "endDate": "2026-01-21",
       "progress": 0
@@ -855,7 +855,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "inProgress",
+      "status": "open",
       "startDate": "2026-01-20",
       "endDate": "2026-02-03",
       "progress": 0
@@ -870,7 +870,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "inProgress",
+      "status": "open",
       "startDate": "2026-01-27",
       "endDate": "2026-02-07",
       "progress": 0
@@ -900,7 +900,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-20",
       "endDate": "2026-01-24",
       "progress": 0
@@ -915,7 +915,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "inProgress",
+      "status": "open",
       "startDate": "2026-01-24",
       "endDate": "2026-02-03",
       "progress": 0
@@ -945,7 +945,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-13",
       "endDate": "2026-01-17",
       "progress": 0
@@ -960,7 +960,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-15",
       "endDate": "2026-01-19",
       "progress": 0
@@ -975,7 +975,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-17",
       "endDate": "2026-01-21",
       "progress": 0
@@ -990,7 +990,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "inProgress",
+      "status": "open",
       "startDate": "2026-01-27",
       "endDate": "2026-02-05",
       "progress": 0
@@ -1020,7 +1020,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-20",
       "endDate": "2026-01-24",
       "progress": 0
@@ -1035,7 +1035,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-22",
       "endDate": "2026-01-26",
       "progress": 0
@@ -1050,7 +1050,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "inProgress",
+      "status": "open",
       "startDate": "2026-01-27",
       "endDate": "2026-02-05",
       "progress": 0
@@ -1080,7 +1080,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-10",
       "endDate": "2026-01-14",
       "progress": 0
@@ -1095,7 +1095,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-13",
       "endDate": "2026-01-17",
       "progress": 0
@@ -1110,7 +1110,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-15",
       "endDate": "2026-01-19",
       "progress": 0
@@ -1125,7 +1125,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-20",
       "endDate": "2026-01-26",
       "progress": 0
@@ -1140,7 +1140,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-22",
       "endDate": "2026-01-27",
       "progress": 0
@@ -1155,7 +1155,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "inProgress",
+      "status": "open",
       "startDate": "2026-01-27",
       "endDate": "2026-02-07",
       "progress": 0
@@ -1230,7 +1230,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "inProgress",
+      "status": "open",
       "startDate": "2026-01-27",
       "endDate": "2026-02-07",
       "progress": 0
@@ -1245,7 +1245,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-20",
       "endDate": "2026-01-26",
       "progress": 0
@@ -1260,7 +1260,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-22",
       "endDate": "2026-01-27",
       "progress": 0
@@ -1275,7 +1275,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-24",
       "endDate": "2026-01-28",
       "progress": 0
@@ -1290,7 +1290,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "inProgress",
+      "status": "open",
       "startDate": "2026-01-27",
       "endDate": "2026-02-05",
       "progress": 0
@@ -1320,7 +1320,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-17",
       "endDate": "2026-01-21",
       "progress": 0
@@ -1335,7 +1335,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-20",
       "endDate": "2026-01-24",
       "progress": 0
@@ -1350,7 +1350,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "inProgress",
+      "status": "open",
       "startDate": "2026-01-27",
       "endDate": "2026-02-03",
       "progress": 0
@@ -1410,7 +1410,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-13",
       "endDate": "2026-01-17",
       "progress": 0
@@ -1440,7 +1440,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "inProgress",
+      "status": "open",
       "startDate": "2026-01-20",
       "endDate": "2026-02-07",
       "progress": 0
@@ -1485,7 +1485,7 @@
       "feasibility": "1.0",
       "note": "",
       "isRed": false,
-      "status": "completed",
+      "status": "open",
       "startDate": "2026-01-17",
       "endDate": "2026-01-24",
       "progress": 0
