@@ -1,0 +1,1 @@
+import"./chunk-WWX6BADO.js";var e=[{path:"",loadComponent:()=>import("./chunk-DXPLI4ZG.js").then(o=>o.CalendarMobileHomeComponent)},{path:"settings",loadComponent:()=>import("./chunk-ZQFMBHKL.js").then(o=>o.CalendarMobileSettingsComponent)},{path:":screenName",loadComponent:()=>import("./chunk-DXPLI4ZG.js").then(o=>o.CalendarMobileHomeComponent)}];export{e as mobileRoutes};
