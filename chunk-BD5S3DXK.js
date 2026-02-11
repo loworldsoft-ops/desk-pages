@@ -1,0 +1,1 @@
+import"./chunk-WWX6BADO.js";var t=[{path:"",loadComponent:()=>import("./chunk-ET5GDA6Y.js").then(o=>o.PcWorkspaceComponent)},{path:":screenName",loadComponent:()=>import("./chunk-ET5GDA6Y.js").then(o=>o.PcWorkspaceComponent)}];export{t as pcRoutes};
